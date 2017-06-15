@@ -1,15 +1,11 @@
 <?php
-/* vim: set expandtab tabstop=4 softtabstop=4 shiftwidth=4:
+  /* vim: set expandtab tabstop=4 softtabstop=4 shiftwidth=4:
   Codificación: UTF-8
   +----------------------------------------------------------------------+
-  | Issabel version 0.5                                                  |
+  | Issabel version 1.0-16                                               |
   | http://www.issabel.org                                               |
   +----------------------------------------------------------------------+
   | Copyright (c) 2006 Palosanto Solutions S. A.                         |
-  +----------------------------------------------------------------------+
-  | Translate bye: Erwan DESVERGNES - SDCI                               |
-  | erwan.desvergnes@SDCI.fr                                             |
-  |                                                                      |                                               |
   +----------------------------------------------------------------------+
   | The contents of this file are subject to the General Public License  |
   | (GPL) Version 2 (the "License"); you may not use this file except in |
@@ -23,30 +19,32 @@
   +----------------------------------------------------------------------+
   | The Initial Developer of the Original Code is PaloSanto Solutions    |
   +----------------------------------------------------------------------+
-  $Id: br.lang,v 1.6 2007/09/05 00:36:42 afigueroa Exp $ */
+  $Id: en.lang,v 1.1 2008-10-30 09:10:15 Bruno Macias bmacias@elastix.org Exp $ */
 global $arrLangModule;
 $arrLangModule=array(
-"Create New User" => "Criar Novo Usuário",
-"Name" => "Nome",
-"Login" => "Login",
+"Create New User"=>"Criar Novo Usuário",
+"Name"=>"Nome",
+"Login"=>"Login",
 "Password" => "Senha",
-"Retype password" => "Re-digite a senha",
-"New User" => "Novo Usuário",
-"Edit User" => "Editar Usuário",
-"The passwords are empty or don't match" => "A senha é em branco ou não confere",
-"The admin user cannot be deleted because is the default Issabel administrator. You can delete any other user." => "O Usuário admin não pode ser apagado porque é o Administrador padrão do Issabel Server",
-"User List" => "Lista de Usuários",
-"Real Name" => "Nome Real",
-"Extension" => "Extension",
+"Retype password"=>"Re-digite a senha",
+"New User"=>"Novo Usuário",
+"Edit User"=>"Editar Usuário",
+"The passwords are empty or don't match"=>"As senhas estão vazias ou não correspondem",
+"The admin user cannot be deleted because is the default Issabel administrator. You can delete any other user." => "The admin user cannot be deleted because is the default Issabel administrator. You can delete any other user.",
+"User List" => "Lista de Usuário",
+"Real Name"=>"Nome",
+"Extension" => "Ramal",
 "(Ex. John Doe)" => "(Ex. John Doe)",
-"Webmail User" => "Webmail User",
-"Webmail Domain" => "Webmail Domain",
-"Webmail Password" => "Webmail Password",
-"Retype Webmail password" => "Retype Webmail password",
-"Mail Profile" => "Mail Profile",
-"No extension associated" => "No extension associated",
-"userNoAllowed" => "User is not allowed to do this action",
-"You are not authorized to access to information of that user" => "You are not authorized to access to information of that user",
-"no extension" => "no extension"
+"Webmail User" => "Usuário do Webmail",
+"Webmail Domain" => "Dominio do Webmail",
+"Webmail Password" => "Senha do Webmail",
+"Retype Webmail password" => "Re-digite a senha do Webmail",
+"Mail Profile" => "Perfil do Email",
+"No extension associated" => "Nenhum ramal associado",
+"userNoAllowed" => "O usuário não tem permissão para fazer essa ação",
+"You are not authorized to access to information of that user" => "Você não está autorizado a acessar as informações desse usuário",
+"no extension" => "sem ramal",
+"PBX Profile" => "Perfil do PBX",
+"Main Fields" => "Principal"
 );
 ?>
