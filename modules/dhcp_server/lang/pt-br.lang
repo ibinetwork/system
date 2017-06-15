@@ -23,7 +23,7 @@
   +----------------------------------------------------------------------+
   | The Initial Developer of the Original Code is PaloSanto Solutions    |
   +----------------------------------------------------------------------+
-  $Id: br.lang,v 1.6 2007/09/05 00:36:42 afigueroa Exp $ */
+  $Id: pt-br.lang,v 1.8 2017-06-15 09:08:29 Ibinetwork Informática rafael@ibinetwork.com.br $ */
 global $arrLangModule;
 $arrLangModule=array(
 "DHCP Server" => "Servidor de DHCP",
@@ -38,10 +38,10 @@ $arrLangModule=array(
 "Gateway" => "Gateway",
 "Optional" => "Opcional",
 "Of 1 to 50000 Seconds" => "De 1 a 50000 segundos",
-"Time of client refreshment" => "Time of client refreshment",
+"Time of client refreshment" => "Tempo de atualização do cliente",
 "DHCP Configuration" => "Configuração de DHCP",
 "Could not find IP range" => "Não foi possível encontrar essa faixa de IP",
-"DHCP configuration reading error: Verify that the DHCP service is installed and try again." => "Erro ao carregar a configuração de DHCP: Verifique se o serviço de DHCP esta instalado e tente novamente.",
+"DHCP configuration reading error: Verify that the DHCP service is installed and try again." => "Erro ao carregar a configuração de DHCP: Verifique se o serviço de DHCP está instalado e tente novamente.",
 "Information DHCP" => "Informações",
 "The Service dhcpd can't stop" => "O serviço dhcpd não pôde ser parado",
 "The Service dhcpd can't start" => "O serviço dhcpd não pôde ser iniciado",
@@ -56,7 +56,7 @@ $arrLangModule=array(
 "Update Error" => "Erro de Atualização",
 "Status" => "Status",
 "Inactive" => "Desativado",
-"Information" => "Information",
+"Information" => "Informação",
 "Active"=>"Ativo",
 );
 ?>
