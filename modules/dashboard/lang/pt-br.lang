@@ -19,10 +19,25 @@
   +----------------------------------------------------------------------+
   | The Initial Developer of the Original Code is PaloSanto Solutions    |
   +----------------------------------------------------------------------+
-  $Id: es.lang,v 1.7 2007/09/05 00:36:42 alex Exp $ */
+  $Id: pt-br.lang,v 1.8 2015/06/15 16:47:42 Ibinetwork Informática rafael@ibinetwork.com.br $ */
 global $arrLangModule;
 $arrLangModule = array(
+    "Loading" => "Carregando",
     "System Resources" => "Recursos do Sistema",
-    "Hard Drives" => "Disco Rigído",
+    "Processes Status" => "Status dos Processos",
+    "Hard Drives" => "Discos Rígidos",
+    "Calls" => "Chamadas",
+    "Dashboard" => "Painel",
+    "You haven't extension" => "Ramal não foi atribuído.",
+    "Performance Graphic" => "Gráfico de Performance",
+    "News" => "Novidades",
+    "Communication Activity" => "Atividade de Comunicação",
+    "Calendar" => "Calendário",
+    "Faxes" => "Faxes",
+    "Telephony Hardware" => "Placa de Telefonia",
+    "Unimplemented method" => "Método não implementado",
+    "Invalid request" => "Solicitação inválida",
+    "Emails" => "Emails",
+    "Voicemails" => "Caixas Postais",
 );
 ?>
