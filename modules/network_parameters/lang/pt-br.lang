@@ -23,7 +23,7 @@
   +----------------------------------------------------------------------+
   | The Initial Developer of the Original Code is PaloSanto Solutions    |
   +----------------------------------------------------------------------+
-  $Id: br.lang,v 1.6 2007/09/05 00:36:42 afigueroa Exp $ */
+  $Id: pt-br.lang,v 1.8 2017-06-15 09:08:29 Ibinetwork Informática rafael@ibinetwork.com.br Exp $ */
 global $arrLangModule;
 $arrLangModule=array(
 "Network Parameters" => "Configuração de Rede",
@@ -31,8 +31,8 @@ $arrLangModule=array(
 "Type" => "Tipo",
 "IP" => "IP",
 "Mask" => "Mascára",
-"MAC Address" => "End. MAC",
-"HW Info" => "Info. de Hardware",
+"MAC Address" => "Endereço MAC",
+"HW Info" => "Placa de Rede",
 "Status" => "Status",
 "Ethernet Interfaces List" => "Lista de Interfaces de Rede",
 "Connected" => "Conectado",
@@ -51,6 +51,6 @@ $arrLangModule=array(
 "Edit Network Parameters" => "Editar Config. de Rede",
 "Required field" => "Campo Requerido",
 "Apply changes" => "Aplicar Modificações",
-"Are you sure you want to edit network parameters?" => "Tem certeza que deseja editar config. de rede?",
+"Are you sure you want to edit network parameters?" => "Tem certeza que deseja editar configuração de rede?",
 );
 ?>
